@@ -53,18 +53,44 @@ An Online Examination System built with PHP and MySQL, designed to provide a sea
 ```
 
 ## ScreenShots
+
+### Login Page
 ![Login Page](screenshots/1.jpg)
+
+### Register Page
 ![REGISTER PAGE](screenshots/2.jpg)
+
+### Home Page
 ![Home Page](screenshots/3.jpg)
+
+### Student Dashboard
 ![Student Dashboard](screenshots/4.jpg)
+
+### Exam Page
 ![Exam Page](screenshots/5.jpg)
+
+### Test Page
 ![Test Page](screenshots/6.jpg)
+
+### Result Page
 ![Result Page](screenshots/7.jpg)
+
+### View Answer Page
 ![View Answer Page](screenshots/8.jpg)
+
+### Admin Login
 ![Admin Login](screenshots/9.jpg)
+
+### Admin Dashboard
 ![Admin Dashboard](screenshots/10.jpg)
+
+### Manage User
 ![Manage User](screenshots/11.jpg)
+
+### Add Questions
 ![Add Questions](screenshots/12.jpg)
+
+### Manage Questions
 ![Manage Questions](screenshots/13.jpg)
 
 
