@@ -109,4 +109,4 @@ An Online Examination System built with PHP and MySQL, designed to provide a sea
 - Enhanced Security
 
 
-**Note:** For any issues or contributions, please open an issue or submit a pull request on [GitHub](https://github.com/Golu-1312/online-examination-php).
+**Note:** For any issues or contributions, please open an issue or submit a pull request on [GitHub](https://github.com/Golu-1312/online-examination-System).
