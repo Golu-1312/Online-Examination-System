@@ -11,6 +11,12 @@ An Online Examination System built with PHP and MySQL, designed to provide a sea
 - Responsive UI using Bootstrap
 - Session management and security features
 
+## Technologies Used
+
+- Frontend: HTML,CSS,JavaScript  
+- Backend:PHP  
+- DataBase: MySQL
+
 ## Project Structure
 
 ```
@@ -61,18 +67,12 @@ An Online Examination System built with PHP and MySQL, designed to provide a sea
 ![Add Questions](screenshots/12.jpg)
 ![Manage Questions](screenshots/13.jpg)
 
-## Dependencies
 
-- PHP >= 5.6
-- MySQL
-- [Bootstrap 4]
-- [jQuery]
-- Javascript
 
 ## Usage
 
-- **User:** Register, log in, take exams, and view results.
-- **Admin:** Log in to the admin panel to manage users and exam questions.
+- User:Register, log in, take exams, and view results.
+- Admin:Log in to the admin panel to manage users and exam questions.
 
 ## Future Enhancement 
 - Subject Wise Examination
